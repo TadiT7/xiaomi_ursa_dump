@@ -1,0 +1,48 @@
+{
+  "localId": "00d305cd-91a4-408d-8ef7-b23b7876ecb7",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "6438ad6e5032344c22c4dec4df511a4de87d1a10",
+  "platform": 6,
+  "size": 7257622,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "fallback": "霓虹"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_miwallpaper_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_miwallpaper_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "db724f1d-7783-4461-921c-cb24158334a7",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}
