@@ -1,0 +1,18 @@
+<DaemonConfigurationRoot>
+  <DaemonModuleConfig>
+    <ModuleName>sensor</ModuleName>
+    <ModuleEnable>TRUE</ModuleEnable>
+  </DaemonModuleConfig>
+  <DaemonModuleConfig>
+    <ModuleName>laser</ModuleName>
+    <ModuleEnable>TRUE</ModuleEnable>
+  </DaemonModuleConfig>
+  <DaemonModuleConfig>
+    <ModuleName>flood</ModuleName>
+    <ModuleEnable>TRUE</ModuleEnable>
+  </DaemonModuleConfig>
+  <DaemonModuleConfig>
+    <ModuleName>eeprom</ModuleName>
+    <ModuleEnable>TRUE</ModuleEnable>
+  </DaemonModuleConfig>
+</DaemonConfigurationRoot>
